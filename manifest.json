@@ -1,0 +1,7 @@
+{
+    "manifest_version": 2,
+    "name": "Open in Pop-up",
+    "version": "0.0.1",
+
+    "description": "Open current URL in a new pop-up window without toolbar."
+}
